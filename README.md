@@ -88,5 +88,4 @@ To communicate insights effectively, we use:
 2. Open `data_preprocessing.ipynb` and run the data cleaning and feature extraction steps.  
 3. Execute `model_training.ipynb` to train and evaluate models.  
 4. Analyze results using `data_analysis.ipynb` to visualize findings.  
-5. Review output for insights into **real vs. fake news classification**.  
-"""
+5. Review output for insights into **real vs. fake news classification**. 
