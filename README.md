@@ -1,2 +1,1 @@
-# Machine-Learning-Fake-News-Processor
-P4
+# project-4-fake-news
