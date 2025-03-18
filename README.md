@@ -2,7 +2,7 @@
 # Overview
 The **Real News vs. Fake News Classification** project applies **machine learning (ML)** to detect misinformation in news articles. By leveraging **Python**, **Scikit-learn**, and data visualization tools, we preprocess text data, build classification models, and optimize performance to achieve high accuracy in distinguishing real news from fake news.  
 
-# Project Components**  
+# Project Components
 
 __1. Data Collection:__  
 - The dataset consists of **news articles labeled as real or fake**.  
