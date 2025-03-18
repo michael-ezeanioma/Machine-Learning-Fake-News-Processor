@@ -29,6 +29,7 @@ To improve classification performance, we apply:
 - **Cross-Validation** – Ensuring the model generalizes well to new data.  
 
 __Evaluation Metrics:__
+
 Accuracy Score  
 Confusion Matrix
 Precision, Recall, F1-score  
@@ -40,7 +41,7 @@ __5. Data Visualization:__ To communicate insights effectively, we use:
 - **Feature Importance Charts** – Highlights key features for classification.  
 
 # Visualization Tools:
-- **Matplotlib**, **Seaborn**, **Plotly**, and potentially **Tableau**.  
+- **Matplotlib**, **Seaborn**, **Plotly**, and **Tableau**.  
 
 # Files 
 __data_analysis.ipynb:__ – Contains analysis and insights from the dataset.  
