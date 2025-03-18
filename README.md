@@ -29,15 +29,12 @@ To improve classification performance, we apply:
 - **Cross-Validation** – Ensuring the model generalizes well to new data.  
 
 __Evaluation Metrics:__
-
 Accuracy Score  
 Confusion Matrix
 Precision, Recall, F1-score  
 ROC Curve & AUC Score  
 
-__5. Data Visualization:__
-
-To communicate insights effectively, we use:  
+__5. Data Visualization:__ To communicate insights effectively, we use:  
 - **Confusion Matrix** – Illustrates classification performance.  
 - **Accuracy Trends Over Iterations** – Tracks model improvement.  
 - **Feature Importance Charts** – Highlights key features for classification.  
